@@ -3,9 +3,10 @@
 ### test3
 hello world
 ----
-* hello 2*
+*hello 2*
 ****
-** hello 3**
+**hello 3**
 * mark
 * * mark2
-* * * mark3
+* * * mark3 * * *
+* <test 1>
