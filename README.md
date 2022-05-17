@@ -6,7 +6,6 @@ hello world
 *hello 2*
 ****
 **hello 3**
-* mark
-* * mark2
-* * * mark3 * * *
-* <test 1>
+
+***mark3***
+<test 1>
